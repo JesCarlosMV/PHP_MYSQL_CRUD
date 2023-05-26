@@ -1,0 +1,21 @@
+Intento de login: 23-05-2023 18:00:48 - br0l0v3@gmail.com - ROL: 
+Intento de login FALLIDO: 23-05-2023 18:01:55 - 56y@hotmail.com - ROL: 
+LOGIN: 23-05-2023 18:02:09 - amgtk@hotmail.com - ROL: cliente
+LOGIN: 23-05-2023 18:02:33 - br0l54680v3@gmail.com - ROL: administrador
+LOGIN: 23-05-2023 18:03:55 - admin@admin.com - ROL: administrador
+LOGIN: 23-05-2023 19:37:07 - admin@admin.com - ROL: administrador
+LOGIN: 23-05-2023 20:06:42 - admin@admin.com - ROL: administrador
+LOGIN: 23-05-2023 20:08:56 - admin@admin.com - ROL: administrador
+LOGIN: 23-05-2023 20:09:28 - admin@admin.com - ROL: administrador
+LOGIN: 23-05-2023 20:14:45 - admin@admin.com - ROL: administrador
+LOGIN: 25-05-2023 15:56:09 - admin@admin.com - ROL: administrador
+LOGIN: 25-05-2023 17:53:47 - popo@hotmail.com - ROL: administrador
+LOGIN: 26-05-2023 19:54:45 - admin@admin.com - ROL: administrador
+LOGIN: 26-05-2023 20:02:56 - admin@admin.com - ROL: administrador
+LOGIN: 26-05-2023 20:03:34 - admin@admin.com - ROL: administrador
+LOGIN: 26-05-2023 20:07:10 - admin@admin.com - ROL: administrador
+Intento de login FALLIDO: 26-05-2023 20:07:36 - amgtk@hotmail.com - ROL: 
+Intento de login FALLIDO: 26-05-2023 20:07:43 - amgtk@hotmail.com - ROL: 
+Intento de login FALLIDO: 26-05-2023 20:07:52 - amgtk1@hotmail.com - ROL: 
+Intento de login FALLIDO: 26-05-2023 20:11:02 - amgtk@hotmail.com - ROL: 
+Intento de login FALLIDO: 26-05-2023 20:11:15 - amgtk@hotmail.com - ROL: 
